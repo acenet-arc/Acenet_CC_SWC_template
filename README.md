@@ -1,3 +1,5 @@
+This ia a LESSON template.  For a WORKSHOP home page template, see https://github.com/carpentries/workshop-template.
+
 To deploy on webserver with apache2 installed:
 
 first follow the setup here:
