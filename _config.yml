@@ -71,5 +71,5 @@ episode_order:
   - lunch-1
   - break
   
-# Turn off built-in syntax highlighting.
+# Turn off built-in syntax highlighting. 
 highlighter: false
